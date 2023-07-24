@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Store</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5268fd7-6141-44d1-96df-49e62db3a995</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ceaa316a-7316-4ee6-bef2-67d2f071ac4a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ceaa316a-7316-4ee6-bef2-67d2f071ac4a</id>
+      <masked>false</masked>
+      <name>store_name</name>
+   </variable>
+</TestCaseEntity>
